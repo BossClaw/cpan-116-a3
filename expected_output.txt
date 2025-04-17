@@ -1,0 +1,42 @@
+Enter size of array from 1 and 12 inclusive.
+4
+
+Size of array chosen is 4
+
+Enter number (1/4): 200
+Enter number (2/4): 300
+Enter number (3/4): 400
+Enter number (4/4): 500
+
+Elements in the array:
+200
+300
+400
+500
+
+Sum of array elements: 1400
+
+Enter the number to search
+20
+Invalid input 20! Enter a number between 128 and 1024.
+Enter the number to search
+200
+Element found!
+Search again? (Y/N)?
+y
+
+Enter the number to search
+600
+Error!! Element not found
+Search again? (Y/N)?
+y
+
+Enter the number to search
+700
+Error!! Element not found
+Search again? (Y/N)?
+n
+
+Thanks for searching 3 times.
+You found 1 numbers.
+You did not find 2 numbers.
